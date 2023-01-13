@@ -17,6 +17,7 @@ import javax.swing.JTextField;
 class ServerScreen extends JFrame {
 	JTextArea ta;
 	JTextField tf;
+	//깃 테스트용 주석
 
 	public ServerScreen() {
 		setSize(300, 300);
